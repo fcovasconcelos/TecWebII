@@ -12,7 +12,7 @@ A aplicação gerencia tarefas com suporte a prioridades, status, data/hora de c
 🎯 Funcionalidades implementadas
 A aplicação exibe o seguinte menu de opções no terminal:
 
-## >>>> GERENCIADOR DE TAREFAS <<<<
+ >>>> GERENCIADOR DE TAREFAS <<<<
 1 - Adicionar tarefa
 2 - Listar tarefas
 3 - Remover tarefa
@@ -39,10 +39,10 @@ A aplicação exibe o seguinte menu de opções no terminal:
 
 📂 Estrutura do projeto
 
-├── app.js          // Arquivo principal que roda o menu e interage com o usuário
-├── tarefas.js      // Módulo com as funções de manipulação de tarefas
-├── data.json       // Arquivo JSON onde as tarefas são armazenadas
-└── README.md       // Este arquivo de documentação
+  ├── app.js          // Arquivo principal que roda o menu e interage com o usuário
+  ├── tarefas.js      // Módulo com as funções de manipulação de tarefas
+  ├── data.json       // Arquivo JSON onde as tarefas são armazenadas
+  └── README.md       // Este arquivo de documentação
 
 💡 Detalhes técnicos
 Tarefas são armazenadas em um array de objetos JSON no arquivo data.json.
