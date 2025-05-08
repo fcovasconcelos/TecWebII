@@ -1,4 +1,6 @@
 ﻿📝 Gerenciador de Tarefas (Node.js - Terminal App)
+
+ 
 Este é um projeto de aplicação de terminal desenvolvida em Node.js que permite cadastrar, listar, remover e gerenciar tarefas, utilizando:
 
 Módulos personalizados
